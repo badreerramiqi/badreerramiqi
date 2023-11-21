@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Badre Er-Ramiqi</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img src="![download](https://github.com/badreerramiqi/badreerramiqi/assets/147147111/491856d5-5223-4c1d-8113-82b05b27ea81)">
+<img src="![image](https://github.com/badreerramiqi/badreerramiqi/assets/147147111/5bb4244d-519e-4f14-95df-cbe7be6f2e1f)
+">
 
 
 
