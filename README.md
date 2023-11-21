@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badre Er-Ramiqi</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<img src="download.png">
+<img src="download.png" align="center" >
 
 
 
